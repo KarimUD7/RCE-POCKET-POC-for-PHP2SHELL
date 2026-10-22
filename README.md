@@ -12,6 +12,7 @@
 
 [![Animated preview of the PHP2SHELL demonstration](POC-preview.gif)](POC-demo.mp4)
 
+Watch on Youtube : https://www.youtube.com/watch?v=NlJ_C07NL00
 **[▶ Play the full video](POC-demo.mp4)**
 
 Two RCEs in PHP's unserialize() core (C: Serializable and E: enum-autoload
